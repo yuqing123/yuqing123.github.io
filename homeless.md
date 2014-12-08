@@ -4,7 +4,7 @@ Santa Clara County, even with its enormous wealth per capita because of Silicon 
 
 Santa Clara County, even with its enormous wealth per capita because of Silicon Valley’s boom, had the largest percentage of unsheltered homeless in the country this year. 
 
-![Graphic_Survey](http://i.imgur.com/19HhS4T.jpg)
+![Graphic_Survey](http://i.imgur.com/RDseuZI.jpg)
 
 The county also has the largest percentage of unsheltered homeless - 75 percent - this year. Without any significant increase in the number of shelter beds, more people are living in cars, encampments or on the streets.
 
@@ -14,7 +14,7 @@ To make matters worse, the soaring rent and low vacancy rate coming out of Silic
 
 “We have more funds to help, but we don’t have the housing to place them in,” said Lori Collins, shelter director of InnVision Shelter Network.
 
-![Graphic_RentalMarket](http://i.imgur.com/Ibc20NQ.jpg)
+![Graphic_RentalMarket](http://i.imgur.com/wIG8JmH.jpg)
 
 Average asking rent in Santa Clara County has reached a record $2269 in 2014, almost $1,000 higher than a dacade ago. Occupancy rate also remained high as 95.3 percent, according to rental market researcher RealFact.com.
 
