@@ -14,7 +14,7 @@ To make matters worse, the soaring rent and low vacancy rate coming out of Silic
 
 “We have more funds to help, but we don’t have the housing to place them in,” said Lori Collins, shelter director of InnVision Shelter Network.
 
-![Graphic_RentalMarket](http://i.imgur.com/Ibc20NQ.jpg)
+![Graphic_RentalMarket](http://i.imgur.com/1S7RX6A.png)
 
 Average asking rent in Santa Clara County has reached a record $2269 in 2014, almost $1,000 higher than a dacade ago. Occupancy rate also remained high as 95.3 percent, according to rental market researcher RealFact.com.
 
