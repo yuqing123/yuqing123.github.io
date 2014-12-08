@@ -22,7 +22,7 @@ Being evicted by landlord has become the third main reason of homelessness, foll
 
 On December 4, San Jose shut down the country’s largest homeless encampment - a 68-acre land bordering Coyote Creek where about 300 people live in tents and tree houses. They called it “The Jungle.”
 
-![Graphic_Jungle](http://i.imgur.com/T0LhIKr.png)
+![Graphic_Jungle](http://i.imgur.com/yTds5uS.jpg)
 
 The San Jose City Council approved $4 million over two years in a Rapid Re-housing pilot program to permanently house people from the jungle in June 2013, and another $1.67 million to clean up the area this year.
 
