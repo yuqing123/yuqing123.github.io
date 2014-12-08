@@ -1,10 +1,10 @@
-Graphic #1
-
 Santa Clara County has the seventh largest homeless populations - 7,567 people - in the country, according to the 2014 Annual Homeless Assessment Report (AHAR) to Congress.
 
 Santa Clara County, even with its enormous wealth per capita because of Silicon Valley’s boom, has seen its homeless population increased by 5 percent in the past seven years, while the national number decreased by 11 percent.
 
 Santa Clara County, even with its enormous wealth per capita because of Silicon Valley’s boom, had the largest percentage of unsheltered homeless in the country this year. 
+
+![Graphic_Survey](http://i.imgur.com/19HhS4T.jpg)
 
 The county also has the largest percentage of unsheltered homeless - 75 percent - this year. Without any significant increase in the number of shelter beds, more people are living in cars, encampments or on the streets.
 
@@ -22,7 +22,7 @@ Being evicted by landlord has become the third main reason of homelessness, foll
 
 On December 4, San Jose shut down the country’s largest homeless encampment - a 68-acre land bordering Coyote Creek where about 300 people live in tents and tree houses. They called it “The Jungle.”
 
-Graphic #3
+![Graphic_Jungle](http://i.imgur.com/T0LhIKr.png)
 
 The San Jose City Council approved $4 million over two years in a Rapid Re-housing pilot program to permanently house people from the jungle in June 2013, and another $1.67 million to clean up the area this year.
 
